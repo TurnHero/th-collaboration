@@ -9,3 +9,6 @@ The following templates and screens will be used as guidelines for updating the 
 
 ## Game information
 ![Game information](ux-welcome-v2-info-about-game.png)
+
+## In-game menus DRAFT
+![In-game UX DRAFT](ux-ingame-draft1.png)
