@@ -7,7 +7,7 @@ The following templates and screens will be used as guidelines for updating the 
 ## Game overview
 ![Game overview](ux-welcome-overview.png)
 
-## Specific game
+## Game information
 ![Specific game information](ux-specific-game.png)
 
 ## In-game menus (DRAFT)
