@@ -10,9 +10,6 @@ The following templates and screens will be used as guidelines for updating the 
 ## Game information
 ![Specific game information](ux-specific-game.png)
 
-## In-game menus (DRAFT)
-![In-game UX DRAFT](ux-ingame-draft1.png)
-
 ---
 # In-game menu
 
