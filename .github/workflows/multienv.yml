@@ -8,21 +8,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  j1:
     runs-on: ubuntu-latest
     environment: dev
     steps:
       - name: Echo environment
         run: echo dev ${{ job.environment.name }}
-
-  build:
+  j2:
     runs-on: ubuntu-latest
     environment: test
     steps:
       - name: Echo environment
         run: echo test  ${{ job.environment.name }}
-  
-  build:
+  j3:
     runs-on: ubuntu-latest
     environment: prod
     steps:
